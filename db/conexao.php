@@ -2,13 +2,14 @@
 
 //Pagina de coneção com o banco de dados.
 
-//Banco de dados local
-//$servername = "localhost";
-//$username = "root";
-//$password = "";
-//$dbname="dados_blog";
+/*Banco de dados local
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname="dados_blog"; */ 
 
-//Banco de dados externo 
+//Banco de dados externo
+ 
 $servername = "qao3ibsa7hhgecbv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
 $username   = "mclf4x8bwai9xwr4";
 $password   = "xub4v47d5cts31ba	";
