@@ -9,8 +9,8 @@ $password = "";
 $dbname="dados_blog"; */ 
 
 //Banco de dados externo
- 
-$servername = "qao3ibsa7hhgecbv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+
+$servername = "mysql://mclf4x8bwai9xwr4:xub4v47d5cts31ba@qao3ibsa7hhgecbv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/or1h0wik29d2piyu";
 $username   = "mclf4x8bwai9xwr4";
 $password   = "xub4v47d5cts31ba	";
 $dbname     = "or1h0wik29d2piyu";
