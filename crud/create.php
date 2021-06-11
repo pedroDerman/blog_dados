@@ -20,7 +20,7 @@ try {
   // set the PDO error mode to exception
   $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
   $sql = "INSERT INTO users (aluno, disciplina, nota1,nota2)
-  VALUES ('John', 'Doe', 10, 10)";
+  VALUES ('pedro', 'mat', 0, 10)";
   // use exec() because no results are returned
   $conn->exec($sql);
   echo "New record created successfully";
