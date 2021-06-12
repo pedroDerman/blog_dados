@@ -1,4 +1,4 @@
 <?php
     echo "Vamos lá";
-
-    $escola =  array();
+    echo "Antonia luana"
+        $escola =  array();
