@@ -13,8 +13,9 @@
     <input type="submit">
     </form>
     <?php
+    echo 'ola';
     ?>
-    
+
 </body>
 </html>
 
